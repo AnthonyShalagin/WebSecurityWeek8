@@ -18,19 +18,18 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: _Insecure_Direct_Object_Reference_(IDOR)_
 
-	
-	<img src='http://i.imgur.com/JSzFqNC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/JSzFqNC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: _SQL_Injection_(SQLi)_
-	
-	<img src='http://i.imgur.com/kMB1dqL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='http://i.imgur.com/kMB1dqL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Green
 
 Vulnerability #1: _Username_Enumeration_
-	
-	<img src='http://i.imgur.com/lg0kQF5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='http://i.imgur.com/lg0kQF5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: __________________
 
