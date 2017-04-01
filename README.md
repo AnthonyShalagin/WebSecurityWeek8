@@ -31,8 +31,9 @@ Vulnerability #1: _Username_Enumeration_
 
 <img src='http://i.imgur.com/lg0kQF5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Vulnerability #2: __________________
+Vulnerability #2: _Cross_Site_Scripting_XSS_
 
+<img src='http://i.imgur.com/kRfRPiy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Red
 
