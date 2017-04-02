@@ -45,6 +45,10 @@ Vulnerability #2: _Session_Hijacking_
 
 <img src='http://i.imgur.com/YiKXrwP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Bonus 1
+
+<img src='http://i.imgur.com/FN0roMP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## Notes
 
 Describe any challenges encountered while doing the work
