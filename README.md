@@ -41,8 +41,9 @@ Vulnerability #1: _Cross_Site_Request_Forgery_CSRF_
 
 <img src='http://i.imgur.com/wbjOpTQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Vulnerability #2: __________________
+Vulnerability #2: _Session_Hijacking_
 
+<img src='http://i.imgur.com/YiKXrwP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
