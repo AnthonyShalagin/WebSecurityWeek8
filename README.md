@@ -16,11 +16,11 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: _Insecure_Direct_Object_Reference_IDOR_
+Vulnerability #1: _Cross_Site_Request_Forgery_CSRF_
 
-<img src='http://i.imgur.com/JSzFqNC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/hEVnWZL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Vulnerability #2: _SQL_Injection_(SQLi)_
+Vulnerability #2: _SQL_Injection_SQLi_
 
 <img src='http://i.imgur.com/kMB1dqL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -37,9 +37,9 @@ Vulnerability #2: _Cross_Site_Scripting_XSS_
 
 ## Red
 
-Vulnerability #1: _Cross_Site_Request_Forgery_CSRF_
+Vulnerability #1: _Insecure_Direct_Object_Reference_IDOR_
 
-<img src='http://i.imgur.com/wbjOpTQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/UUCkeKG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Vulnerability #2: _Session_Hijacking_
 
